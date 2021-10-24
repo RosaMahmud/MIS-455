@@ -1,0 +1,134 @@
+
+.container{
+    padding-top: 4px;
+    padding-right: 45px;
+    padding-left: 45px;
+    padding-bottom: 4px;
+ 
+
+}
+
+.name{
+    color: grey;
+    font-family:sans-serif;
+    font-weight: 700;
+    font-size: 250%;
+}
+
+.bold{
+    padding-left: 2%;
+    font-weight:800;
+    font-family:sans-serif;
+    font-size: 1.5rem;
+}
+
+.list{
+    color: grey;
+    font-weight: 700;
+}
+
+.row1{
+    display: flex;
+}
+
+.image1{
+    padding-left: 15%;
+}
+
+.row2{
+    display: flex;
+    margin-top: 10%;
+}
+
+.title{
+
+    font-weight:800;
+    font-family:sans-serif;
+    font-size: 2rem;
+   
+}
+
+.about{
+    margin-top: 3%;
+}
+
+.title1{
+    font-weight:800;
+    font-family:sans-serif;
+    font-size: 2rem;
+}
+
+.row3{
+    margin-top: 10%;
+}
+.todo{
+    font-weight:600;
+    font-family:sans-serif;
+    font-size: 1.5rem; 
+}
+
+.box{
+    margin-top: 2%;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+  
+
+}
+
+.box1{
+    border-style: solid;
+    border-color: grey;
+    border-width: 2px;
+    padding: 50px;
+    border-radius: 20px;
+    margin-right: 5px;
+    
+}
+
+.box1 a{
+    text-decoration: none;
+}
+
+.box2{
+    border-style: solid;
+    border-color: grey;
+    margin-right: 22px;
+    margin-left: 22px;
+    border-width: 2px;
+    padding: 50px;
+    border-radius: 20px;
+}
+
+.box3{
+    border-style: solid;
+    border-color: grey;
+    border-width: 2px;
+    padding: 50px;
+    border-radius: 20px;
+    margin-left: 5px;
+}
+
+.footer{
+    margin-top: 10%;
+}
+
+.box1:hover{
+    background-color: black;
+    color: white;
+}
+
+.box2:hover{
+    background-color: black;
+    color: white;
+}
+
+.box3:hover{
+    background-color: black;
+    color: white;
+}
+
+.links{
+    text-decoration: none;
+    color: black;
+}
